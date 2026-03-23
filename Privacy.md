@@ -37,9 +37,7 @@ Any changes to this policy will be published on this page. The "Last updated" da
 ## Contact
 
 For questions about privacy, you can open an issue on the project repository:
-
-https://github.com/jsell74/MifareChameleonTools
-
+https://github.com/DGinefra/MifareChameleonTools/blob/main/README.md
 ---
 
 *MIFARE Chameleon Tools – tools for MIFARE Classic tags with Chameleon Ultra*

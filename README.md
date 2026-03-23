@@ -51,5 +51,5 @@ The app is available in:
 ## References
 
 - [Chameleon Ultra – RfidResearchGroup](https://github.com/RfidResearchGroup/ChameleonUltra)
-- [Privacy Policy](https://github.com/jsell74/MifareChameleonTools/blob/main/Privacy.md)
+- [Privacy Policy](https://github.com/davidginefra/MifareChameleonTools/blob/main/Privacy.md)
 - [MIFARE Classic – NXP](https://www.nxp.com/products/rfid-nfc/mifare-hf/mifare-classic)

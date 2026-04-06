@@ -43,6 +43,7 @@ The app is available in:
 - English
 - French
 - German
+- Spanish
 
 ## Themes
 

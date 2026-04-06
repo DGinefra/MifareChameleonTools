@@ -4,7 +4,9 @@ iOS app to read, write and manage MIFARE Classic tags via **Chameleon Ultra** (B
 
 ![iOS](https://img.shields.io/badge/iOS-18.6+-blue.svg)
 
-**Coming soon on the App Store.**
+**now is the App Store.**
+
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-black?logo=apple)](https://apps.apple.com/it/app/mifare-chameleon-tool/id6761231484)
 
 ## Hardware requirements
 

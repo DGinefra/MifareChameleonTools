@@ -28,6 +28,7 @@ Without Chameleon Ultra you can still:
 | **Key files** | .keys file management (create, import, export) |
 | **Tools** | Access Bits, Value Block, Change UID magic, Chameleon Slots, Compare dumps |
 
+
 ### MIFARE tools
 
 - **Access Bits**: Decode/encode trailer bytes (6,7,8), factory/read-only/value block presets
@@ -44,6 +45,12 @@ The app is available in:
 - French
 - German
 - Spanish
+
+## 📢 Community & Support
+
+For updates, support, and discussions about the project, join the Telegram channel:
+👉 https://t.me/MifareChameleonTool
+Or search directly: **@MifareChameleonTool**
 
 ## Themes
 

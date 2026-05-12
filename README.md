@@ -73,15 +73,7 @@ height="50">
     <li><a href="https://www.nxp.com/products/rfid-nfc/mifare-hf/mifare-classic:MC_53483">MIFARE Classic – NXP</a></li>
   </ul>
 
-  <h2>Building (developers)</h2>
-  <ol>
-    <li>Open <code>MifareChameleonTool/MifareChameleonTool.xcodeproj</code> in <strong>Xcode</strong> (recent stable release recommended).</li>
-    <li>Select the <strong>MifareChameleonTool</strong> iOS target, a simulator or device, and <strong>Run</strong>.</li>
-    <li>A <strong>Chameleon Ultra</strong> is required for on-tag NFC; other screens work without hardware.</li>
-  </ol>
-
-  <hr>
-  <p class="note muted"><em>README preview aligned with <code>README.md</code> (≈ v1.0.9). Open this file in a browser for a local render; GitHub uses <code>README.md</code> on the repo home.</em></p>
+ me.</em></p>
 
 </body>
 </html>

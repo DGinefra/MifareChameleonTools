@@ -42,7 +42,7 @@ Light / dark bases, **Liquid Glass**, **Newspaper**, and custom accent color.
 - **Repository:** [DGinefra/MifareChameleonTools](https://github.com/DGinefra/MifareChameleonTools)
 - **Issues:** [GitHub Issues](https://github.com/DGinefra/MifareChameleonTools/issues) for bugs and feature requests.
 - **Telegram:** [t.me/MifareChameleonTool](https://t.me/MifareChameleonTool)
-- **Privacy:** [Privacy policy (markdown)](https://github.com/DGinefra/MifareChameleonTools/blob/main/Privacy.md)
+- **Privacy:** [Privacy policy](https://github.com/DGinefra/MifareChameleonTools/blob/main/Privacy.md)
 
 ## References
 

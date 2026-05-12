@@ -13,7 +13,15 @@
     <img src="https://img.shields.io/badge/Swift-5.0-orange.svg" alt="Swift 5.0">
   </div>
 
-  <p><strong>App Store:</strong> <em>[add your public App Store link here when the listing is live]</em></p>
+ <p><strong>App Store:</strong></p>
+
+<p>
+<a href="https://apps.apple.com/app/id6761231484">
+<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+alt="Download on the App Store" 
+height="50">
+</a>
+</p>
 
   <h2>Hardware</h2>
   <ul>

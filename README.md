@@ -64,7 +64,7 @@ height="50">
   <h2>Community &amp; support</h2>
   <ul>
     <li><strong>Issues:</strong> <a href="https://github.com/DGinefra/MifareChameleonTools/issues">GitHub Issues</a> for bugs and feature requests.</li>
-    <li><strong>Privacy:</strong> <a href="https://github.com/DGinefra/MifareChameleonTools/blob/main/PRIVACY.md">in-app privacy policy (markdown)</a></li>
+    <li><strong>Privacy:</strong> <a href="[https://github.com/DGinefra/MifareChameleonTools/blob/main/PRIVACY.md](https://github.com/DGinefra/MifareChameleonTools/blob/main/Privacy.md)">in-app privacy policy (markdown)</a></li>
   </ul>
 
   <h2>References</h2>

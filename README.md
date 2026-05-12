@@ -23,7 +23,7 @@ Now available on the App Store.
 | **Key files** | Create, import, export `.keys`|
 | **Tag Detect** | Quick tag / PRNG-style readout from the device|
 | **MF1 key recovery** | Automated classic recovery pipeline aligned with Chameleon-style tooling (dictionary, darkside / nested paths; **hardnested** where applicable) |
-| **Firmware** | Update the device **from the app**: **Normal / Dev** channel, **App / Full** packages, install from **ZIP** when needed |
+| **Firmware** | Update the device Normal and Dev firmware, install from **ZIP** when needed |
 | **Tools** | Access Bits, Value Block, UID magic (Gen1A/Gen2), Chameleon slots, dump compare, and more |
 
 > **Legal / ethical use only.** Use on tags and systems you own or are explicitly authorized to test. Cryptographic tooling is provided for interoperability and security research with compatible hardware.

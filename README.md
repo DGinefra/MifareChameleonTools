@@ -54,10 +54,5 @@ Light / dark bases, **Liquid Glass**, **Newspaper**, and custom accent color.
 - [Chameleon Ultra – RfidResearchGroup](https://github.com/RfidResearchGroup/ChameleonUltra)
 - [MIFARE Classic – NXP](https://www.nxp.com/products/rfid-nfc/mifare-hf/mifare-classic)
 
-## Building (developers)
-
-1. Open `MifareChameleonTool/MifareChameleonTool.xcodeproj` in **Xcode** (recent stable release recommended).
-2. Select the **MifareChameleonTool** iOS target, a simulator or device, and **Run**.
-3. A **Chameleon Ultra** is required for on-tag NFC; other screens work without hardware.
 
 ---

@@ -2,15 +2,12 @@
 
 iOS app to read, write and manage MIFARE Classic tags via Chameleon Ultra (Bluetooth). Styled after Mifare Classic Tool (MCT) with dump editor, tools and slot management.
 
-iOS
-
-Now available on the App Store.# MIFARE Chameleon Tool (MCT)
-
 **iOS** companion for **Chameleon Ultra** (Bluetooth): read/write and manage **MIFARE Classic** tags, with a workflow inspired by **Mifare Classic Tool (MCT)**—dumps, keys, tools, and slot helpers. A **Mac** target also lives in this repo (`MifareChameleonTool_Mac`).
 
 ![iOS](https://img.shields.io/badge/iOS-18.6+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 
+Now available on the App Store.# MIFARE Chameleon Tool (MCT)
 [![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-black?logo=apple)](https://apps.apple.com/app/mifare-chameleon-tool/id6761231484)
 
 ## Hardware

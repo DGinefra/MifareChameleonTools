@@ -21,7 +21,7 @@ Now available on the App Store.
 | **Read / write tag** | MIFARE Classic 1K flows via Chameleon; `.keys` support; magic Gen1A / Gen2 where applicable |
 | **Edit dump** | Byte editor, sector edit, block copy/paste |
 | **Key files** | Create, import, export `.keys`|
-| **Tag Detect** | Quick tag / PRNG-style readout from the device (when supported by firmware) |
+| **Tag Detect** | Quick tag / PRNG-style readout from the device|
 | **MF1 key recovery** | Automated classic recovery pipeline aligned with Chameleon-style tooling (dictionary, darkside / nested paths; **hardnested** where applicable) |
 | **Firmware** | Update the device **from the app**: **Normal / Dev** channel, **App / Full** packages, install from **ZIP** when needed |
 | **Tools** | Access Bits, Value Block, UID magic (Gen1A/Gen2), Chameleon slots, dump compare, and more |

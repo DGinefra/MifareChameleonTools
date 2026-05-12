@@ -73,7 +73,6 @@ height="50">
     <li><a href="https://www.nxp.com/products/rfid-nfc/mifare-hf/mifare-classic:MC_53483">MIFARE Classic – NXP</a></li>
   </ul>
 
- me.</em></p>
 
 </body>
 </html>

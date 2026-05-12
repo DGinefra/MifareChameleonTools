@@ -30,7 +30,11 @@ Now available on the App Store.
 
 ## Localization
 
-**English**, **Italian**, **French**, **German**, **Spanish**.
+**English**, 
+**Italian**, 
+**French**, 
+**German**, 
+**Spanish**.
 
 ## Themes
 
@@ -46,7 +50,7 @@ Light / dark bases, Liquid Glass, Newspaper, and custom accent color.
 ## References
 
 - [Chameleon Ultra – RfidResearchGroup](https://github.com/RfidResearchGroup/ChameleonUltra)
-- [MIFARE Classic – NXP](https://www.nxp.com/products/rfid-nfc/mifare-hf/mifare-classic)
+- [MIFARE Classic – NXP](https://www.nxp.com/docs/en/data-sheet/MF1S50YYX_V1.pdf)
 
 
 ---

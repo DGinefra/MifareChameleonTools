@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MIFARE Chameleon Tool (MCT) – README preview</title>
 
   <h1>MIFARE Chameleon Tool (MCT)</h1>
 

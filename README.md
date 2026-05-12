@@ -36,10 +36,6 @@ UI strings: **English**, **Italian**, **French**, **German**, **Spanish**.
 
 Light / dark bases, **Liquid Glass**, **Newspaper**, and custom accent color.
 
-## Open source & licenses
-
-- This repository mixes **app source** and **third-party** components.
-- The **UltraRecovery** / hardnested-related C code is under **GPL-3.0** (see `MifareChameleonTool/MifareChameleonTool/UltraRecovery/LICENSE.GPL-3-UltraRecovery.txt`). If you redistribute binaries, respect the GPL obligations for those parts.
 
 ## Community & support
 

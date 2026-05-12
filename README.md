@@ -5,7 +5,7 @@ iOS app for Chameleon Ultra (Bluetooth) to read, write and manage MIFARE Classic
 ![iOS](https://img.shields.io/badge/iOS-18.6+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 
-Now available on the App Store.# MIFARE Chameleon Tool (MCT)
+Now available on the App Store.
 
 [![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-black?logo=apple)](https://apps.apple.com/app/mifare-chameleon-tool/id6761231484)
 

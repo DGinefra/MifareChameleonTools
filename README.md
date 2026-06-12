@@ -86,12 +86,6 @@ Light / dark bases, **Liquid Glass**, **Newspaper**, and custom accent color.
 
 - [Chameleon Ultra – RfidResearchGroup](https://github.com/RfidResearchGroup/ChameleonUltra)
 
-## Building (developers)
-
-1. Open `MifareChameleonTool/MifareChameleonTool.xcodeproj` in **Xcode** (recent stable release recommended).
-2. Select the **MifareChameleonTool** iOS target, a simulator or device, and **Run**.
-3. A **Chameleon Ultra** is required for on-tag NFC; other screens work without hardware.
-
 ---
 
 *README aligned with app features around **v1.1** (LF slot support, mfkey32/64, static encrypted nonces, firmware update UX + nested / hardnested integration).*
